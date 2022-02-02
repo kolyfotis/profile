@@ -59,3 +59,7 @@ a {
   list-style: none;
   padding-left: 0px;
 }
+
+.info-card p {
+  margin: 20px 5px;
+}
